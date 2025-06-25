@@ -66,4 +66,4 @@ Peso bias: 0.0000
 
 ---
 
-Desenvolvido por Bruno Difante, para fins educacionais, com base no código original em C# fornecido pelo professor Alexandre Zamberlan.
+Desenvolvido por Bruno Difante e Gabriel Teixeira, para fins educacionais, com base no código original em C# fornecido pelo professor Alexandre Zamberlan.
